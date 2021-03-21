@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there 👋
 
 <!--
 **tosky1125/tosky1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
