@@ -1,78 +1,82 @@
-# Hello there! 👋 I'm Shawn
+# Hi there, I'm Shawn Han 👋
 
-## 🚀 About Me
-- 🔭 I'm currently working on ERP
-- 🌱 I'm currently learning Rust and Go
-- ⚡ Fun fact: A dad of two kids
+**Software Engineer | Backend Architecture & Robust Systems**
 
-## 🛠️ Tech Stack
+I'm a software engineer passionate about building scalable backend services, robust architectures, and continuously refining development methodologies. 
 
-### Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-3776AB?style=flat-square&logo=Rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-3776AB?style=flat-square&logo=Go&logoColor=white)
+### 🚀 What I'm Up To
 
-### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+- 🔭 Focusing on designing scalable enterprise systems and exploring **Multi-Agent Workflows**.
+- ⚙️ Actively applying **Spec-Driven Development** methodologies for better system integration.
+- 🌱 Deepening my theoretical foundations in **Computer Science & Artificial Intelligence**.
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+---
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+### 🛠 Tech Stack
 
-## 📊 GitHub Stats
+**Backend & Architecture**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+</p>
 
-<div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tosky1125&show_icons=true&theme=radical)
+**Systems & AI Tooling**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-FF4F8B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tree--sitter-444444?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF9900?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logoColor=white" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tosky1125&layout=compact&theme=radical)
+**Data & Search**  
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />
+</p>
 
-</div>
+**Infrastructure & Operations**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+</p>
 
-## 🔥 GitHub Streak
+**Frontend & Mobile**  
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=apple&logoColor=white" />
+</p>
 
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=tosky1125&theme=radical)
+---
 
-</div>
+### 🧠 Engineering Principles
 
-## 🏆 GitHub Trophies
+- Start from the domain and make system boundaries explicit.
+- Prefer simple, observable systems over clever but fragile abstractions.
+- Treat tests, documentation, and operational safety as part of the product.
+- Use AI to accelerate engineering, but verify its output with deterministic evidence.
+- Optimize for long-term clarity without losing delivery speed.
 
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tosky1125&theme=radical&row=1&column=6)
+---
 
-</div>
+### 📊 GitHub Stats
 
-## 📈 Activity Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tosky1125&theme=react-dark)
-
-</div>
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/shawn1125)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/tosky1125)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:tosky0514@gmail.com)
-
-**✨ Thanks for visiting my profile! Let's build something amazing together! ✨**
-
-![Profile Views](https://komarev.com/ghpvc/?username=tosky1125&color=blueviolet&style=flat-square)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tosky1125&show_icons=true&theme=transparent&hide_border=true&title_color=black&icon_color=black&text_color=black" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosky1125&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=black" height="150" alt="Top Languages" />
+</p>
